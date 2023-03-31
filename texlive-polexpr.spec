@@ -1,6 +1,6 @@
 Name:		texlive-polexpr
 Version:	63337
-Release:	1
+Release:	2
 Summary:	A parser for polynomial expressions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/polexpr
